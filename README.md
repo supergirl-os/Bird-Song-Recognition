@@ -24,6 +24,6 @@ Converted audio data into Mel Spectrograms before classification.
 
 
 
-![image-20221119010157100](C:%5CUsers%5C86135%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20221119010157100.png)
+![!Aaron Swartz](https://github.com/supergirl-os/Bird-Song-Recognition/raw/main/img.png)
 
 Figure 1 Visualizing the Mel feature map of the training set
